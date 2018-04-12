@@ -14,6 +14,7 @@ For more information, you can follow BenchWallet and BenchTrade development in t
 
 ```
 eosjs
+BenchKey
 ReactJS
 React-Native
 React-Native-Web
@@ -31,32 +32,6 @@ web3
 If you would like to send your feedback on our progress thus far or would like to
 join our development team, please do so in the [@BenchTrade](https://t.me/benchtrade) Telegram channel.  Telegram channel.
 
-
-## BenchWallet Folder Structure
-
-BenchWallet will use the following folder structure:
-
-```
-bench-wallet/
-  README.md
-  node_modules/
-  package.json
-  android/
-  ios/
-  public/
-    index.html
-    favicon.ico
-  src/
-    common/
-      assets/
-      components/
-      constants/
-    styles/
-    index.android.js (main file for Android builds)
-    index.ios.js (main file for iOS builds)
-    index.web.js (main file for web builds)
-    index.electron.js (main file for desktop builds)
-```
 
 ## MIT License
 
